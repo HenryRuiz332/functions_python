@@ -1,0 +1,8 @@
+Como crear una ventana con tkinter
+
+estructura
+|
+
+Raiz
+	Frame
+		widgets
